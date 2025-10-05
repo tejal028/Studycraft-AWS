@@ -1,0 +1,1 @@
+This is a MERN stack project deployed using DevOps tools and practices
